@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
-  s.name         = 'DateTools'
+  s.name         = 'DateToolsObjC'
   s.version      = '1.7.0'
   s.summary      = 'Dates and time made easy in Objective-C'
-  s.homepage     = 'https://github.com/MatthewYork/DateTools'
+  s.homepage     = 'https://github.com/darkFunction/DateTools'
 
   s.description  = 'DateTools was written to streamline date and time handling in Objective-C.'
 
